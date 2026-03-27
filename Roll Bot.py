@@ -18,7 +18,6 @@ async def _(_):
 
 
 
-
 # 听音乐状态~ 来自khl.py官方文档 纯抄写
 @bot.command()
 async def (msg: Message, music: str, singer: str):  #这里可以固定内容，删除29-30行即可
